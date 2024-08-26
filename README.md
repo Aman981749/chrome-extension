@@ -1,0 +1,1 @@
+simple chrome extension that copies tab from active page and you can also add you tab if  you want there is also delete all option to delete all the tabs you saved
